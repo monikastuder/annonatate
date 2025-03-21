@@ -1,0 +1,37 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_020"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dies ist eine Ecke.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "monikastuder",
+                "name": "monikastuder"
+            },
+            "created": "2025-03-21T13:20:54.285Z",
+            "modified": "2025-03-21T13:20:58.663Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_020/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_020",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"399.1228332519531\" cy=\"549.7078628540039\" r=\"341.19809985583\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "230f6f92-c45a-49ae-9350-b4b88c9e30ce.json",
+    "motivation": "commenting"
+}
